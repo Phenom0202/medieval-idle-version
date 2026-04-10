@@ -1,3 +1,4 @@
 - Première version test
 - Correction du lvl max des activités
 - correction rafraichissement marché local golds
+- changement des prérequis Mon bastion : Scierie, Fonderie et Ponton de Pêche.
