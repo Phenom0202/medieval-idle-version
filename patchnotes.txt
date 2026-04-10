@@ -4,3 +4,4 @@
 - ajout de la vente d'item direct ( définit à 1 gold par unité pour le moment) pour pouvoir vider l'inventaire.
 - Les armes/Armures/Boucliers de la forge vont maintenant bien dans l'inventaire. 
 - Un item équipé par le joueur se décrémente de l'inventaire pour avoir la possiblité de laisser une place libre en plus. 
+- Correction bug inventaire
