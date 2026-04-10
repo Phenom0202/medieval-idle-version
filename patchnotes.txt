@@ -1,2 +1,3 @@
 - Première version test
 - Correction du lvl max des activités
+- correction rafraichissement marché local golds
