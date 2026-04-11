@@ -1,2 +1,2 @@
-Fix fragments de biômes 
-intégration du TchatMondial
+ajout des vrais élites + image sur les 2 premier élites de la prairie.
+loot des élites ajoutés
