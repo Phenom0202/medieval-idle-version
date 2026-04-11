@@ -1,4 +1,4 @@
-- Première version test
-- Correction du lvl max des activités
-- correction rafraichissement marché local golds
-- changement des prérequis Mon bastion : Scierie, Fonderie et Ponton de Pêche.
+- Changement des prérequis : 
+Mon bastion : - Scierie, Fonderie et Ponton de Pêche,
+              - Serre, Haut fourneau, trésorerie, Grande forge
+Compétence Chance de loot = +0.5 / lvl = 12.5 % de chance de loot au lvl max
