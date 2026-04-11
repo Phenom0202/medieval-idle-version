@@ -5,3 +5,5 @@ Haut fourneau ok; Trésorerie ok; Grande Forge ok ....
 Bastion Ok  
 
 ajout des fragments de boss pour débloquer les biomes combat. 
+
+fix taux de drop et combatsystem
