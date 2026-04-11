@@ -1,4 +1,5 @@
 - Changement des prérequis : 
-Mon bastion : - Scierie, Fonderie et Ponton de Pêche,
-              - Serre, Haut fourneau, trésorerie, Grande forge
-Compétence Chance de loot = +0.5 / lvl = 12.5 % de chance de loot au lvl max
+Mon bastion : - Scierie ok; Fonderie ok;Ponton de Pêche ok ; Serre ok ; 
+Haut fourneau ok; Trésorerie ok; Grande Forge ok .... 
+
+Bastion Ok  
