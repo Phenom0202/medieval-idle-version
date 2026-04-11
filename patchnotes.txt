@@ -1,9 +1,1 @@
-- Changement des prérequis : 
-Mon bastion : - Scierie ok; Fonderie ok;Ponton de Pêche ok ; Serre ok ; 
-Haut fourneau ok; Trésorerie ok; Grande Forge ok .... 
-
-Bastion Ok  
-
-ajout des fragments de boss pour débloquer les biomes combat. 
-
-fix taux de drop et combatsystem
+Fix fragments de biômes 
