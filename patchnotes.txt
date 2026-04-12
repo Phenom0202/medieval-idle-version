@@ -1,2 +1,3 @@
-ajout des vrais élites + image sur les 2 premier élites de la prairie.
-loot des élites ajoutés
+Tous les élites ont une images propre à eux. 
+Création de la vrai page de clan
+ajout de l'item Droit de clan dans le marché local 
