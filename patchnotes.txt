@@ -1,2 +1,3 @@
 nouveaux travaux sur le clan, dépot coffre, dépot or
 creation et quitter/dissoudre clan. 
+fix clan
