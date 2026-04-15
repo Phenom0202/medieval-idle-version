@@ -1,2 +1,3 @@
 Fix : - Toutes les activités fonctionnent hors ligne
 - Reprise de toutes les activités en revenant sur le jeu.
+Ajout cape/ceinture
